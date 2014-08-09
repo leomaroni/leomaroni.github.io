@@ -1,0 +1,42 @@
+* {font-family: 'Jolly Lodger', cursive;}
+* {font-size:35px;}
+
+.cont {
+    width:330px;
+margin-left: auto;
+margin-right: auto;
+}
+.kontakt {
+    float:right;
+}
+.impressum {
+    float:left;
+}
+
+ul{
+    float:left;
+width: 230px;
+background-color: blue
+}
+
+li a{
+display:block;
+width: 196px;
+padding: 3px 4px;
+margin:5px 13px;
+color: #0bada1;
+border-bottom: 1px dotted #96BF1F;
+-moz-transition: background-color .5s ease-in;
+-webkit-transition: background-color .5s ease-in;
+-o-transition: background-color .5s ease-in;
+transition: background-color .5s ease-in;
+}
+
+li a:hover {
+	background-color: #aeb706;
+	color: #de1812;
+	-moz-transition: background-color 0.01s;
+	-webkit-transition: background-color 0.01s;
+	-o-transition: background-color 0.01s;
+	transition: background-color 0.01s;
+}

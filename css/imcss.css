@@ -1,0 +1,45 @@
+* {font-family: 'Love Ya Like A Sister', cursive;}
+* {font-size:30px;}
+
+footer {
+    overflow: auto;
+                margin-top:-1px;
+                color:green;
+                padding-left:10px;
+                padding-right:10px;
+                padding-top:10px;
+                padding-bottom:10px;
+            }
+.con {
+    width:900px;
+margin-left: auto;
+margin-right: auto;
+}
+
+ul{
+    float:left;
+width: 230px;
+background-color: blue
+}
+
+li a{
+display:block;
+width: 196px;
+padding: 3px 4px;
+margin:5px 13px;
+color: #0bada1;
+border-bottom: 1px dotted #96BF1F;
+-moz-transition: background-color .5s ease-in;
+-webkit-transition: background-color .5s ease-in;
+-o-transition: background-color .5s ease-in;
+transition: background-color .5s ease-in;
+}
+
+li a:hover {
+	background-color: #aeb706;
+	color: #de1812;
+	-moz-transition: background-color 0.01s;
+	-webkit-transition: background-color 0.01s;
+	-o-transition: background-color 0.01s;
+	transition: background-color 0.01s;
+}
