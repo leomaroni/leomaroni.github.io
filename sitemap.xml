@@ -4,155 +4,61 @@
       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
       xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
             http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
-
-<!-- erstellt mit www.xml-sitemaps-generator.de  -->
-<!-- angeboten durch www.metatags.de -->
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
 
 <url>
-    <loc>http://leomaroni.github.io</loc>
-
-    <lastmod>2014-08-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>  
+  <loc>http://leomaroni.github.io/</loc>
+  <lastmod>2014-08-24T11:52:22+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
 <url>
-    <loc>http://leomaroni.github.io/</loc>
-
-    <lastmod>2014-08-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>  
+  <loc>http://leomaroni.github.io/index.html</loc>
+  <lastmod>2014-08-24T11:52:22+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
 <url>
-    <loc>http://leomaroni.github.io/index.html</loc>
-
-    <lastmod>2014-08-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>  
+  <loc>http://leomaroni.github.io/uebermich.html</loc>
+  <lastmod>2014-08-24T11:52:22+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
 <url>
-    <loc>http://leomaroni.github.io/uebermich.html</loc>
-
-    <lastmod>2014-08-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>  
+  <loc>http://leomaroni.github.io/fresh.html</loc>
+  <lastmod>2014-08-24T11:52:22+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
 <url>
-    <loc>http://leomaroni.github.io/fresh.html</loc>
-
-    <lastmod>2014-08-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>  
+  <loc>http://leomaroni.github.io/sitemap.html</loc>
+  <lastmod>2014-08-24T11:52:22+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
 <url>
-    <loc>http://leomaroni.github.io/sitemap.html</loc>
-
-    <lastmod>2014-08-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>  
+  <loc>http://leomaroni.github.io/video.html</loc>
+  <lastmod>2014-08-24T11:52:22+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
 <url>
-    <loc>http://leomaroni.github.io/video.html</loc>
-
-    <lastmod>2014-08-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>  
+  <loc>http://leomaroni.github.io/lieder.html</loc>
+  <lastmod>2014-08-24T11:52:22+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
 <url>
-    <loc>http://leomaroni.github.io/lieder.html</loc>
-
-    <lastmod>2014-08-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>  
+  <loc>http://leomaroni.github.io/impressum.html</loc>
+  <lastmod>2014-08-24T11:52:22+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
 <url>
-    <loc>http://leomaroni.github.io/impressum.html</loc>
-
-    <lastmod>2014-08-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>  
+  <loc>http://leomaroni.github.io/rechner.html</loc>
+  <lastmod>2014-08-24T11:52:22+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
 <url>
-    <loc>http://leomaroni.github.io/rechner.html</loc>
-
-    <lastmod>2014-08-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>  
+  <loc>http://leomaroni.github.io/ratespiel.html</loc>
+  <lastmod>2014-08-24T11:52:22+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
 <url>
-    <loc>http://leomaroni.github.io/ratespiel.html</loc>
-
-    <lastmod>2014-08-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>  
-<url>
-    <loc>http://leomaroni.github.io/daten.html</loc>
-
-    <lastmod>2014-08-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>  
-<url>
-    <loc>http://leomaroni.github.io/site.html</loc>
-
-    <lastmod>2014-08-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>  
-<url>
-    <loc>http://leomaroni.github.io/mp3/under</loc>
-
-    <lastmod>2014-08-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>  
-<url>
-    <loc>http://leomaroni.github.io/mp3/allelieder.mp3</loc>
-
-    <lastmod>2014-08-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>  
-<url>
-    <loc>http://leomaroni.github.io/mp3/bass.mp3</loc>
-
-    <lastmod>2014-08-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>  
-<url>
-    <loc>http://leomaroni.github.io/mp3/dark</loc>
-
-    <lastmod>2014-08-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>  
-<url>
-    <loc>http://leomaroni.github.io/mp3/eurodance.mp3</loc>
-
-    <lastmod>2014-08-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>  
-<url>
-    <loc>http://leomaroni.github.io/mp3/lord</loc>
-
-    <lastmod>2014-08-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>  
-<url>
-    <loc>http://leomaroni.github.io/mp3/vitalinstruments.mp3</loc>
-
-    <lastmod>2014-08-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>  
-<url>
-    <loc>http://leomaroni.github.io/mp3/when</loc>
-
-    <lastmod>2014-08-24</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-</url>  
+  <loc>http://leomaroni.github.io/daten.html</loc>
+  <lastmod>2014-08-24T11:52:22+00:00</lastmod>
+  <changefreq>weekly</changefreq>
+</url>
 </urlset>
