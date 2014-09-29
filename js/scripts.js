@@ -15,7 +15,8 @@ $(function() {
 	    {label: 'Video', value: 'video.html'},
 	    {label: 'Liederübersicht', value: 'lieder.html'},
 	    {label: 'Ratespiel', value: 'ratespiel.html'},
-	    {label: 'Taschenrechner', value: 'rechner.html'}
+	    {label: 'Taschenrechner', value: 'rechner.html'},
+	    {label: 'Quiz', value: 'quizeingeben.html'}
 	]
 	,select: function (event, ui) {
 		$(event.target).val(ui.item.label);
